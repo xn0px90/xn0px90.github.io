@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site </title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <title>Posts on xn0px90</title>
+    <link>xn0px90.github.io/post/</link>
+    <description>Recent content in Posts on xn0px90</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2016</rights>
-    <updated>2016-04-14 20:17:44 -0400 EDT</updated>
-
+    <lastBuildDate>Thu, 14 Apr 2016 20:17:44 -0400</lastBuildDate>
+    <atom:link href="xn0px90.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>test</title>
+      <link>/xn0px90.github.io/post/test/</link>
+      <pubDate>Thu, 14 Apr 2016 20:17:44 -0400</pubDate>
       
-        <item>
-          <title>test</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
-          <pubDate>Thu, 14 Apr 2016 20:17:44 EDT</pubDate>
-          <author></author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
-          <description></description>
-        </item>
-      
+      <guid>/xn0px90.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
-
   </channel>
 </rss>
