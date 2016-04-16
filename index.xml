@@ -6,16 +6,39 @@
     <description>Recent content on xn0px90</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2016 20:17:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 00:55:50 -0400</lastBuildDate>
     <atom:link href="xn0px90.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
+      <title>test3</title>
+      <link>/xn0px90.github.io/post/test3/</link>
+      <pubDate>Fri, 15 Apr 2016 00:55:50 -0400</pubDate>
+      
+      <guid>/xn0px90.github.io/post/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>/xn0px90.github.io/post/test2/</link>
+      <pubDate>Fri, 15 Apr 2016 00:55:43 -0400</pubDate>
+      
+      <guid>/xn0px90.github.io/post/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today I start blogging</title>
       <link>/xn0px90.github.io/post/test/</link>
       <pubDate>Thu, 14 Apr 2016 20:17:44 -0400</pubDate>
       
       <guid>/xn0px90.github.io/post/test/</guid>
-      <description></description>
+      <description>&lt;p&gt;I get multiple emails and pm&amp;rsquo;s from my peers in a day to day basis.
+ I have decided to transfer acouple of things from my personal git repo up
+at Digital Ocean (DO). Hopefully you will enjoy this blog and learn as I do.
+By no means am I an expert but a geek with time in my hands and find my self coding every day.
+v&lt;/p&gt;
+</description>
     </item>
     
   </channel>
